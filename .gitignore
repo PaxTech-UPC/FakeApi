@@ -10,7 +10,7 @@ yarn-error.log*
 .DS_Store
 Thumbs.db
 .idea/
-idea/
+.idea
 .vscode/
 
 # Archivos de entorno (si usas .env)
